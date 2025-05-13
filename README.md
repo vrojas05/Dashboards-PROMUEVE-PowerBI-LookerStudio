@@ -1,4 +1,4 @@
-# Dashboards-POWER-BI-Proyecto-PROMUEVE
+# Dashboards-PROMUEVE-PowerBI-LookerStudio
 ⚠️ Importante: Los dashboards se comparten únicamente en formato PDF para proteger la confidencialidad de las bases de datos utilizadas.
 Los datos personales fueron tratados de forma segura y no se incluyen en los archivos compartidos.
 
