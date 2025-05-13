@@ -3,8 +3,6 @@ El dataset del Ciclo 2 tuvo 7.185 registros. Se aplicaron procesos de limpieza y
 
 🧩 Conclusiones y hallazgos
 
-
-
 👥 Participación general
 -Ciclo con mayor participación: 7.185 alumnas.
 
